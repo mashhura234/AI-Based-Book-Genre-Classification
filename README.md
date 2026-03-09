@@ -29,7 +29,7 @@ The following models were trained and evaluated:
 - Naive Bayes  
 - Random Forest  
 
-After hyperparameter tuning using **GridSearchCV**, the **Support Vector Classifier (SVC)** achieved the best performance.
+After hyperparameter tuning using "GridSearchCV", the "Support Vector Classifier (SVC)" achieved the best performance.
 
 ---
 
@@ -37,11 +37,11 @@ After hyperparameter tuning using **GridSearchCV**, the **Support Vector Classif
 | Model | Accuracy |
 |------|---------|
 | Logistic Regression | 63.9% |
-| SVM (Best Model) | **65.5%** |
+| SVM (Best Model) | 65.5% |
 | Random Forest | 44.9% |
 | Naive Bayes | 40.1% |
 
-The **SVM model achieved the highest accuracy of 65.5%**, successfully meeting the project requirement.
+The SVM model achieved the highest accuracy of 65.5%, successfully meeting the project requirement.
 
 ---
 
@@ -50,7 +50,7 @@ The **SVM model achieved the highest accuracy of 65.5%**, successfully meeting t
 1. Data Collection (Goodreads dataset)
 2. Exploratory Data Analysis (EDA)
 3. Text Preprocessing
-4. Feature Extraction using **TF-IDF**
+4. Feature Extraction using "TF-IDF"
 5. Model Training
 6. Hyperparameter Tuning
 7. Model Evaluation
@@ -83,7 +83,7 @@ The project includes several visualizations such as:
 
 ## 👩‍💻 Author
 
-**Mst. Mashhura Nasrin Monika**  
+Mst. Mashhura Nasrin Monika  
 Department of Computer Science & Engineering  
 Metropolitan University, Sylhet
 
@@ -94,5 +94,3 @@ Course: Artificial Intelligence Lab
 Course Code: CSE 422
 
 ---
-
-⭐ If you like this project, feel free to star the repository!
